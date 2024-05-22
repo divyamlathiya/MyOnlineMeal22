@@ -84,7 +84,7 @@ html {
 
 #home::before {
     content: "";
-    background: url('/img/bg_image.png') no-repeat center center/cover;
+    background: url('./img/bg_image.png') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
